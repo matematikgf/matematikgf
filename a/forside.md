@@ -4,17 +4,21 @@
 
 ## Matrialer
 
-- [Teorihæfte](/matrialer/Grundforlob2024TeoriPrint.pdf)
-- [Opgavehæfte](/matrialer/Grundforlob2024OpgaverPrint.pdf)
+- [Teorihæfte](/matrialer/Teo25.pdf) 
+- [Opgavehæfte](/matrialer/Opg25.pdf)
 
 ---
 
 ## Forløbsoversigt
 
 
-| uge nummer    | link til forløb                                           | indhold                                                                    | læs       | opgaver          |
-| --------      | -------                                                   | -------                                                                    | ----      | ----              |                                                    
-| uge 33        |   [indtroduktion](del0_intro/del0_1_introduktion.md)      | hvad er matematik, hvad kan det bruges til og hvad forventes?              |           |                   |
-|               |   [forløb 1](/del1_sammenhaeng/del1_1_introduktion.md)    | variabelsammenhæng, konstanter og koordinatsystemet                        | 1.0 + 1.1 | 0.4 + 1.1 - 1.5   |
-|               |   [forløb 2]()                                            | introduktion til lineær sammenhæng Repræsentationsformerne: tabel, graf og model.   |           |          | 
-| uge 34        |                                                                                                                                        |           |                   |
+| uge   | modul | link til forløb                                              | indhold                     | læs       | opgaver   | afl./test |
+| ----  | ----  | -------                                                      | -------                     | ----      | ----      | ----            |                                                   
+| 33    | 1     | [indtroduktion](del0_intro/del0_1_introduktion.md)           | hvad er matematik, hvad kan det bruges til og hvad forventes?              |           |           | afl.1 udleveres   |
+|       | 2     |   [del 1](/del1_sammenhaeng/del1_1_introduktion.md)          | variabelsammenhæng, konstanter og koordinatsystemet                        | 1.0 + 1.1 | 1.1 - 1.5 |                   |
+|       | 3+4   | del 2                                                        | intro til lineær sammenhæng & graf, tabel og model.                        | 1.2 | 1.6 - 1.13|                   |
+| 34    | 5     | del 3                                                        | propertionalitet                                                           | 1.3       |           | AFL.1 AFLEVERES   |
+|       | 6     | del 4                                                        | funktionsbegrebet                                                          | 2.0       | 2.1 + 0.3 |                   |
+|       | 7     | del 5                                                        | lineære funktioner og nulpunkter                                           | 2.1       | 2.2 + 2.3 |                   |
+|       | 8     | del 6                                                        | Førstegradsliginger og isolering af variable                               | 3.0 - 3.2 | 3.1 - 3.6 |                   |
+| 35    | 9     | del 7                                                        | Skæringspunkt mellem rette linjer                                          |           |           | afl.2 udleveres   |

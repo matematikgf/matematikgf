@@ -2,11 +2,19 @@
 
 ---
 
-## Variabelsammenhænge
+## Variabelsammenhænge - vigtigste "termer" fra kapitlet
 
 > Citat fra kapitel 1 : "Matematik er først og fremmest et fag, hvor man studerer sammenhænge og mønstre"
 
-## Eksempel 1.1 : Dykning, dybde og tryk - Repræsentationsformer
+<details>
+  <summary>Uafhængig og afhængig variabel</summary>
+
+  <ul>
+  <li> hvad er en variabel ?</li>
+  <li> hvad er forskellen på en uafhængig og afhængig variabel ?</li>
+  <ul>
+
+</details>
 
 <details>
   <summary>Tabel</summary>
@@ -16,6 +24,8 @@
 
 <details>
   <summary>Graf</summary>
+  
+  Er dette virkelig en graf ?
 
   ![tabel](/del1_sammenhaeng/graf.png)
 </details>
@@ -28,17 +38,30 @@
 
 <details>
   <summary>Sproglig beskrivelse</summary>
-  opgave
+  Se opgave :  <i>"...trykket er 1,013 bar ved overfladen og stiger med 0,101 for hver meter..."<i>
+
+</details>
+
+<details>
+  <summary>Repræsentationsformer</summary>
+  
+  Hvad er repræsentationsformer ?
+
 </details>
 
 
-<details>
-  <summary>Opgaver</summary>
 
-  - opg 1 : prøv at formulere en kortfattet og klar sproglig beskrivelse af sammenhængen
-  - opg 2 : (bogen: øvelse 1) Prøv at beskrive nogle fordele ved hver af de fire repræsentationer.
-  - opg 3 : hvad er variabler
-  - opg 4 : hvad er konstanter
+<details>
+  <summary>Lav de tre øvelser fra kapitlet</summary>
+
+  - Øvelse 1: Prøv at beskrive nogle fordele ved hver af de fire repræsentationer
+  - Øvelse 2: Brug formlen til at bestemme trykket i 50 meters dybde.
+  - Øvelse 3: Find mindst ét eksempel på en sammenhæng mellem to variabler, og svar på følgende spørgsmål:
+    - Hvad vil du kalde dine variabler?
+    - Hvilke enheder skal dine variabler måles i?
+    - Hvilken variabel er den uafhængige, og hvilken er den afhængige?
+    - Kan sammenhængen repræsenteres ved en tabel? Grafisk? Som formel? Ved en
+sproglig beskrivelse?
 
 
 

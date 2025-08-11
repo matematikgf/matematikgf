@@ -1,6 +1,6 @@
 import MarkdownIt from "https://esm.sh/markdown-it";
 
-Deno.serve(async (req) => {
+Deno.serve({port: 8000}, async (req) => {
 
     const url = new URL(req.url);
 
@@ -34,7 +34,7 @@ async function readMarkdownFile(filePath: string): Promise<Response> {
       <html lang="da">
       <head>
         <meta charset="UTF-8">
-        <title>${filePath}</title>
+        <title>mat grundforløb</title>
         <link rel="stylesheet" href="../style.css">
       </head>
       <body>
