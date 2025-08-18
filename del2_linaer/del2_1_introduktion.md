@@ -2,10 +2,26 @@
 
 ---
 
-##  Intro til lineær sammenhæng & graf, tabel og model. (kapitel 1.2)
+##  Intro til lineær sammenhæng og proportionalitet. (kapitel 1.2 + 1.3)
 
 
-- Hvad betyder ***lineær*** ?
+<details>
+  <summary>Hvad betyder <b>lineær</b> ?</summary>
+
+  Hvis et udtryk kan skrives på formen nedenfor, hvor kun a er en konstant, siges den at være lineær:   
+
+  <math display="block"> 
+  <mrow>
+    <mi>y</mi>
+    <mo>=</mo>
+    <mi>a</mi>
+    <mo>&#x2022;</mo>
+    <mi>x</mi>
+  </math>
+  
+    
+
+</details>
 
 - Hvad er **hældningskoefficienten** ?
 
