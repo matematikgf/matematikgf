@@ -18,10 +18,10 @@
 |       | 2     | [del 1](/del1_sammenhaeng/del1_1_introduktion.md)  | variabelsammenhæng, konstanter og koordinatsystemet           | 1.0 + 1.1 | 1.1 - 1.5 |                                  |
 |       | 3+4   | [del 2](/del2_linaer/del2_1_introduktion.md)       | intro til lineær sammenhæng & propertionalitet                | 1.2 + 1.3 | 1.6 - 1.13|                                  |
 | 34    | 5     | [del 3](/del3_funktioner/del3_1.md)                | funktionsbegrebet, lineære funktioner og nulpunkter           | 2.0 + 2.1 | 2.1 - 2.3 |                                  |
-|       | 6     |                                                    |                                                               |           | 2.6 + 2.8 |                                  |
-|       | 7     | del 4                                              | Førstegradsliginger og isolering af variable                  | 3.0 - 3.2 | 3.1 - 3.6 | [Afl.1.1](/afl/a11.pdf)+[1.2](/afl/a12.pdf) afleveres |
-|       | 8     |                                                    | Skæringspunkt mellem rette linjer                             |           |           |                                  |
-| 35    | 9     | del 5                                              |                                                               | 2.2       |           |                                  |
+|       | 6     | -                                                  |                                                               |           | 2.6 + 2.8 |                                  |
+|       | 7     | [del 4](/del4_forstegradsligning/del4.md)          | Førstegradsliginger og isolering af variable                  | 3.0 - 3.2 | 3.1 - 3.6 | [Afl.1.1](/afl/a11.pdf)+[1.2](/afl/a12.pdf) afleveres |
+|       | 8     |                                                    |                                                               |           |           |                                  |
+| 35    | 9     |                                                    |                                                               | 2.2       |           |                                  |
 |       | 10    |                                                    |                                                               | 3.3       |           |                                  |
 |       | 11    |                                                    |                                                               | 3.3       |           |                                  |     
 |       | 12    |                                                    |                                                               | 0.6+0.7opg |           |                                  |    
