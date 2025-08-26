@@ -9,6 +9,7 @@ Side 26 til og med side 30
 ---
 
 - grafisk metode
+- "og-tegn"
 - substitutions metoden 
 - lige store koefficienters metode
 - determinant metoden
