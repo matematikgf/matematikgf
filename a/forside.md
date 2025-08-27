@@ -20,7 +20,7 @@
 | 34    | 5+6   | [del 3](/del3_funktioner/del3_1.md)                | funktionsbegrebet, lineære funktioner og nulpunkter           | 2.0 + 2.1 | 2.1 - 2.3 |                                  |
 |       | 7+8   | [del 4](/del4_forstegradsligning/del4.md)          | førstegradsliginger og isolering af variable                  | 3.0 - 3.2 | 3.1 - 3.6 | [Afl.1.1](/afl/a11.pdf)+[1.2](/afl/a12.pdf) afleveres |
 | 35    | 9+10  | [del 5](/del5_toligninger/del5.md)                 | to ligninger med to ubekendte                                 | 3.3       | 3.8+3.9+3.17  |                              |
-|       | 11    | del 6                                              | bevis: formel for hældningskoefficient & aflevering 2         | 2.2       | 2.4       |                                  |
+|       | 11    | [del 6](/del6_haeldning/del6.md)                   | bevis: formel for hældningskoefficient & aflevering 2         | 2.2       | 2.4       |                                  |
 |       | 12    |                                                    | arbejd på aflevering 2                                        |           | afl.2     |                                  |
 | 36    | 13+14 | del 7                                              | regneregler... læs i opgavehæfte                              |           |           |                                  |
 | 37    | 15    | del 8                                              | sprog til ligning                                             |           |           | [Afl.2.1](/afl/a21.pdf)+[2.2](/afl/a22.pdf) afleveres | 
