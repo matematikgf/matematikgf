@@ -8,7 +8,7 @@
 <details>
   <summary>Hvad betyder <b>lineær</b> ?</summary>
 
-  Hvis et udtryk kan skrives på formen nedenfor, hvor kun a er en konstant, siges den at være lineær:   
+  Hvis et udtryk kan skrives på formen nedenfor, hvor kun a og b er konstanter, siges den at være lineær:   
 
   <math display="block"> 
   <mrow>
@@ -17,6 +17,9 @@
     <mi>a</mi>
     <mo>&#x2022;</mo>
     <mi>x</mi>
+    <mo>+</mo>
+    <mi>b</mi>
+
   </math>
   
     
