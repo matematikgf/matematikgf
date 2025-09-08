@@ -22,15 +22,15 @@
 | 35    | 9+10  | [del 5](/del5_toligninger/del5.md)                 | to ligninger med to ubekendte                                 | 3.3       | 3.8+3.9+3.17  |                              |
 |       | 11    | [del 6](/del6_haeldning/del6.md)                   | bevis: formel for hældningskoefficient & aflevering 2         | 2.2       | 2.4       |                                  |
 |       | 12    |                                                    | arbejd på aflevering 2                                        |           | afl.2     |                                  |
-| 36    | 13+14 | [del 7](/del7_regneregler/del7.md)                 | regneregler... (læs i opgavehæfte)                            | 0.6+0.7   | 0.13-0.15 |                                  |
-| 37    | 15    | del 8                                              | sprog til ligning                                             |           |           | [Afl.2.1](/afl/a21.pdf)+[2.2](/afl/a22.pdf) afleveres | 
-|       | 16    | -                                                  | ***TEST***                                                    |           |           |                                  |
-| 38    | 17+18 |                                                    | definition og værdimængde                                     |           |           |                                  |    
-|       | 19+20 |                                                    | ***SCREENING***                                               |           |           |                                  |    
+| 36    | 13+14 | [del 7](/del7_regneregler/del7.md)                 | regneregler... (læs i opgavehæfte)                            | 0.6 + 0.7 | 0.13-0.15 |                                  |
+| 37    | 15    | [del 8](/del8_sprogligning/del8.md)                | sprog til ligning                                             |    | 2.12-2.13+3.10-3.15 | [Afl.2.1](/afl/a21.pdf)+[2.2](/afl/a22.pdf) afleveres | 
+|       | 16    | -                                                  | ***TEST UDEN KARAKTER***                                      |           |           |                                  |
+| 38    | 17+18 |                                                    | definition og værdimængde                                     | 2.3       |           |                                  |    
+|       | 19+20 |                                                    | ***SCREENINGS TEST***                                         |           |           |                                  |    
 | 39    | 21+22 |                                                    | regression                                                    | 2.4       |           |                                  |   
 |       | 23+24 |                                                    |                                                               |           |           |                                  |    
-| 40    | 25+26 |                                                    |                                                               |           |           | AFL 3 - afleveres                |
-| 41    | 27+28 |                                                    |                                                               |           |           |                                  |    
+| 40    | 25+26 |                                                    | opfølgning på screening                                       |           |           | AFL 3 - afleveres                |
+| 41    | 27+28 |                                                    | matematik projekt                                             |           |           |                                  |    
 | 42    |       |                                                    | ***EFTERÅRSFERIE***                                           |           |           |                                  |    
 | 43    |       |                                                    | matematikprojekt                                              |           |           |                                  |    
 | 44    |       |                                                    | grundforløbsprøver                                            |           |           |                                  |    
