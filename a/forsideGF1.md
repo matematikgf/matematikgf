@@ -23,7 +23,7 @@
 | 37    | 13+14 | [del 7](/del7_regneregler/del7.md)                 | regneregler... (læs i opgavehæfte)                            | 0.6 + 0.7 | 0.13-0.16 |                                  |
 |       | 15    |                                                    | ***TEST UDEN KARAKTER***                                      |           |           |                                  |
 |       | 16    | [del 8](/del8_sprogligning/del8.md)                | sprog til ligning                                             |    | 2.12-2.13+3.10-3.15 | [Afl.2.1](/afl/a21.pdf)+[2.2](/afl/a22.pdf) afleveres | 
-| 38    | 17+18 | del 9                                              | definition og værdimængde                                     | 2.3       |           |                                  |    
+| 38    | 17+18 | [del 9](/del9_v_d/del9.md)                         | definition og værdimængde                                     | 2.3       |           |                                  |    
 |       | 19+20 |                                                    | ***SCREENINGS TEST***                                         |           |           |                                  |    
 | 39    | 21+22 | del 10                                             | regression                                                    | 2.4       |           |                                  |   
 |       | 23+24 | del 11                                             |                                                               |           |           |                                  |    

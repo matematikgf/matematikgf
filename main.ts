@@ -21,6 +21,12 @@ Deno.serve({port: 8000}, async (req) => {
 
 });
 
+// lav en funktion der kan sortere en array af n tal i stigende orden
+function sortArray(arr: number[]): number[] {
+    arr.sort((a, b) => a - b);
+    return arr;
+    
+}
 
 async function readMarkdownFile(filePath: string): Promise<Response> {
 

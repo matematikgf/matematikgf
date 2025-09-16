@@ -25,7 +25,7 @@
 | 37    | 15    | [del 8](/del8_sprogligning/del8.md)                | sprog til ligning                                             |    | 2.12-2.13+3.10-3.15 | [Afl.2.1](/afl/a21.pdf)+[2.2](/afl/a22.pdf) afleveres | 
 |       | 16    | -                                                  | ***TEST UDEN KARAKTER***                                      |           |           |                                  |
 | 38    | 19+20 |                                                    | ***SCREENINGS TEST***                                         |           |           |                                  |    
-|       | 17+18 | del 9                                              | definition og værdimængde                                     | 2.3       |           |                                  |    
+|       | 17+18 | [del 9](/del9_v_d/del9.md)                         | definition og værdimængde                                     | 2.3       |           |                                  |    
 | 39    | 19+20 | del 10                                             | ***SCREENINGS TEST***                                         |           |           |                                  |    
 |       | 21+22 | del 11                                             | regression                                                    | 2.4       |           |                                  |   
 | 40    | 23+24 |                                                    |                                                               |           |           |                                  |    
