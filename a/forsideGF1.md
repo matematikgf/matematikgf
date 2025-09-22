@@ -25,8 +25,8 @@
 |       | 16    | [del 8](/del8_sprogligning/del8.md)                | sprog til ligning                                             |    | 2.12-2.13+3.10-3.15 | [Afl.2.1](/afl/a21.pdf)+[2.2](/afl/a22.pdf) afleveres | 
 | 38    | 17+18 | [del 9](/del9_v_d/del9.md)                         | definition og værdimængde                                     | 2.3       | 2.9-2.11  |                                  |    
 |       | 19+20 |                                                    | ***SCREENINGS TEST***                                         |           |           |                                  |    
-| 39    | 21+22 | del 10                                             | regression                                                    | 2.4       |           |                                  |   
-|       | 23+24 | del 11                                             |                                                               |           |           |                                  |    
+| 39    | 21+22 | [del 10](/del10_regression/del10.md)               | lineær regression                                             | 2.4       | 2.14-2.16 |                                  |   
+|       | 23+24 | del 11                                             | forklaringsgrad                                               |           |           |                                  |    
 | 40    | 25+26 |                                                    | opfølgning på screening                                       |           |           | AFL 3 - afleveres                |
 | 41    | 27+28 |                                                    | matematik projekt                                             |           |           |                                  |    
 | 42    |       |                                                    | ***EFTERÅRSFERIE***                                           |           |           |                                  |    
