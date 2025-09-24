@@ -25,12 +25,11 @@
 | 37    | 15    | [del 8](/del8_sprogligning/del8.md)                | sprog til ligning                                             |    | 2.12-2.13+3.10-3.15 | [Afl.2.1](/afl/a21.pdf)+[2.2](/afl/a22.pdf) afleveres | 
 |       | 16    | -                                                  | ***TEST UDEN KARAKTER***                                      |           |           |                                  |
 | 38    | 19+20 |                                                    | ***SCREENINGS TEST***                                         |           |           |                                  |    
-|       | 17+18 | [del 9](/del9_v_d/del9.md)                         | definition og værdimængde                                     | 2.3       | 2.9-2.11  |                                  |    
-| 39    | 19+20 |                                                    | ***SCREENINGS TEST***                                         |           |           |                                  |    
-| 40    | 21+22 | [del 10](/del10_regression/del10.md)               | lineær regression                                             | 2.4       | 2.14-2.16 |                                  |   
-| 40    | 23+24 |                                                    |                                                               |           |           |                                  |    
-| 40    | 25+26 |                                                    | opfølgning på screening                                       |           |           | AFL 3 - afleveres                |
-| 41    | 27+28 |                                                    | matematik projekt                                             |           |           |                                  |    
+| 39    | 17+18 | [del 9](/del9_v_d/del9.md)                         | definition og værdimængde                                     | 2.3       | 2.9-2.11  |                                  |    
+|       | 21    | [del 10](/del10_regression/del10.md)               | lineær regression                                             | 2.4       | 2.14-2.16 |                                  |   
+|       | 22    | [del 11](/del11_forklaringsgrad/del11.md)          | forklaringsgrad                                               |           | 2.17-2.19 |                                  |   
+| 40    |       |                                                    |                                                               |           |           |                                  |      
+| 41    | 23+24 |                                                    | matematik projekt start                                       |           |           | [Afl.3](/afl/a3.pdf) lav på computer, aflever i Lectio  |    
 | 42    |       |                                                    | ***EFTERÅRSFERIE***                                           |           |           |                                  |    
 | 43    |       |                                                    | matematikprojekt                                              |           |           |                                  |    
 | 44    |       |                                                    | grundforløbsprøver                                            |           |           |                                  |    

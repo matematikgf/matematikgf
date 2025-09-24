@@ -26,9 +26,10 @@
 | 38    | 17+18 | [del 9](/del9_v_d/del9.md)                         | definition og værdimængde                                     | 2.3       | 2.9-2.11  |                                  |    
 |       | 19+20 |                                                    | ***SCREENINGS TEST***                                         |           |           |                                  |    
 | 39    | 21+22 | [del 10](/del10_regression/del10.md)               | lineær regression                                             | 2.4       | 2.14-2.16 |                                  |   
-|       | 23+24 | del 11                                             | forklaringsgrad                                               |           |           |                                  |    
-| 40    | 25+26 |                                                    | opfølgning på screening                                       |           |           | AFL 3 - afleveres                |
-| 41    | 27+28 |                                                    | matematik projekt                                             |           |           |                                  |    
+|       | 23+24 | [del 11](/del11_forklaringsgrad/del11.md)          | forklaringsgrad                                               |           | 2.17-2.18 |                                  |    
+| 40    |       |                                                    |                                                               |           |           |                                  |      
+| 41    | 25+26 |                                                    | matematik projekt start                                       |           |           | [Afl.3](/afl/a3.pdf) lav på computer, aflever i Lectio  |    
+|       | 27+28 |                                                    | opfølgning på screening                                       |           |           |                                  |
 | 42    |       |                                                    | ***EFTERÅRSFERIE***                                           |           |           |                                  |    
 | 43    |       |                                                    | matematikprojekt                                              |           |           |                                  |    
 | 44    |       |                                                    | grundforløbsprøver                                            |           |           |                                  |    
