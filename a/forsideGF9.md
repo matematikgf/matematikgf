@@ -31,7 +31,7 @@
 | 40    |       |                                                    |                                                               |           |           |                                  |      
 | 41    | 23+24 |                                                    | matematik projekt start                                       |           |           | [Afl.3](/afl/a3.pdf) lav på computer, aflever i Lectio  |    
 | 42    |       |                                                    | ***EFTERÅRSFERIE***                                           |           |           |                                  |    
-| 43    |       |                                                    | matematikprojekt                                              |           |           |                                  |    
+| 43    |       |                                                    | matematikprojekt afleveres                                    |           |           |                                  |    
 | 44    |       |                                                    | grundforløbsprøver                                            |           |           |                                  |    
 | 45    |       |                                                    | **STUDIERETNINGER STARTER**                                   |           |           |                                  |    
 
