@@ -29,9 +29,9 @@
 |       | 21    | [del 10](/del10_regression/del10.md)               | lineær regression                                             | 2.4       | 2.14-2.16 |                                  |   
 |       | 22    | [del 11](/del11_forklaringsgrad/del11.md)          | forklaringsgrad                                               |           | 2.17-2.19 |                                  |   
 | 40    |       |                                                    |                                                               |           |           |                                  |      
-| 41    | 23+24 |                                                    | matematik projekt start                                       |           |           | [Afl.3](/afl/a3.pdf) lav på computer, aflever i Lectio  |    
+| 41    | 25+26 | [del 12](/del12_projekt_start/del12.md)            | matematik projekt start                                       |           |           | [Afl.3](/afl/a3.pdf) lav på computer, aflever i Lectio  |    
 | 42    |       |                                                    | ***EFTERÅRSFERIE***                                           |           |           |                                  |    
-| 43    |       |                                                    | matematikprojekt afleveres                                    |           |           |                                  |    
+| 43    |       |                                                    | matematikprojekt afleveres                                    |           |           | [Matematik projekt 1](/afl/projekt1.pdf) afleveres  |    
 | 44    |       |                                                    | grundforløbsprøver                                            |           |           |                                  |    
 | 45    |       |                                                    | **STUDIERETNINGER STARTER**                                   |           |           |                                  |    
 
