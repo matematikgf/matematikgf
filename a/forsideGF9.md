@@ -31,7 +31,7 @@
 | 40    |       |                                                    |                                                               |           |           |                                  |      
 | 41    | 25+26 | [del 12](/del12_projekt_start/del12.md)            | matematik projekt start                                       |           |           | [Afl.3](/afl/a3.pdf) lav på computer, aflever i Lectio  |    
 | 42    |       |                                                    | ***EFTERÅRSFERIE***                                           |           |           |                                  |    
-| 43    |       |                                                    | matematikprojekt afleveres                                    |           |           | [Matematik projekt 1](/afl/projekt1.pdf) afleveres  |    
-| 44    |       |                                                    | grundforløbsprøver                                            |           |           |                                  |    
+| 43    |       | [del 13](/del13_projekt_forklaringsgrad/del13.md)  | forklaringsgraden i projektet                                 |           |           |                                  |
+| 44    |       |                                                    | grundforløbsprøver                                            |           |           |  [Matematik projekt 1](/afl/projekt1.pdf) afleveres  |      
 | 45    |       |                                                    | **STUDIERETNINGER STARTER**                                   |           |           |                                  |    
 
