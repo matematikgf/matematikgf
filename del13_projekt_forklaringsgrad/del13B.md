@@ -1,5 +1,8 @@
-# Hvorfor er forklaringsgraden god/dårlig ?
 # En eksemplificering ... med grafer 
+
+-----
+
+# Hvorfor er forklaringsgraden god/dårlig ?
 
 ## Smalt spænd i målinger (data)
 
