@@ -13,7 +13,7 @@
 
 | uge   | modul | link til forløb                                    | indhold                                                       | læs       | opgaver   | afl./test                        |
 | ----  | ----  | -------                                            | -------                                                       | ----      | ---       | ---                              |
-| 33    | 1     | [indtroduktion](del0_intro/del0_1_introduktion.md) | hvad er matematik, hvad kan det bruges til og hvad forventes? |           |           |                                  |
+| 33    | 1     | [indtroduktion](/del0_intro/del0_1_introduktion.md) | hvad er matematik, hvad kan det bruges til og hvad forventes? |           |           |                                  |
 |       | 2     | [del 1](/del1_sammenhaeng/del1_1_introduktion.md)  | variabelsammenhæng, konstanter og koordinatsystemet           | 1.0 + 1.1 | 1.1 - 1.5 |                                  |
 |       | 3+4   | [del 2](/del2_linaer/del2_1_introduktion.md)       | intro til lineær sammenhæng & propertionalitet                | 1.2 + 1.3 | 1.6 - 1.13|                                  |
 | 34    | 5+6   | [del 3](/del3_funktioner/del3_1.md)                | funktionsbegrebet, lineære funktioner og nulpunkter           | 2.0 + 2.1 | 2.1 - 2.3 |                                  |
