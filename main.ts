@@ -17,7 +17,7 @@ Deno.serve({port: 8000}, async (req) => {
     }
 
     //hvis ingen specifik sti er angivet, returner hovedoversigten
-    return await readMarkdownFile("./a/forside.md");
+    return await readMarkdownFile("./a/forsideGF7.md");
 
 });
 
