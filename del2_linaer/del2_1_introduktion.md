@@ -6,25 +6,9 @@
 
 
 <details>
-  <summary>Hvad betyder <b>lineær</b> ?</summary>
+  <summary>Vigtigste begreber fra kapitlerne</summary>
 
-  Hvis et udtryk kan skrives på formen nedenfor, hvor kun a og b er konstanter, siges den at være lineær:   
-
-  <math display="block"> 
-  <mrow>
-    <mi>y</mi>
-    <mo>=</mo>
-    <mi>a</mi>
-    <mo>&#x2022;</mo>
-    <mi>x</mi>
-    <mo>+</mo>
-    <mi>b</mi>
-
-  </math>
-  
-    
-
-</details>
+- Hvad betyder det at et udtryk er **lineært** ?
 
 - Hvad er **hældningskoefficienten** ?
 
@@ -33,6 +17,25 @@
 - hvad er **propertionalitets konstanten** ?
 
 - Hvad betyder **omvendt propertionel** ?
+    
+
+</details>
 
 ---
+
+<details>
+  <summary>Gennemgang opgave 1.1 - 1.5</summary>
+
+
+</details>
+
+---
+
+<details>
+  <summary>Lav opgaver 1.6 - 1.13</summary>
+
+
+</details>
+
+
 
