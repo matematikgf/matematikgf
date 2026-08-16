@@ -2,6 +2,8 @@
 
 ## Lektion 1 :
 
+Vigtigt : Husk aflever aflevering 1.1
+
 ----
 
 <details>
