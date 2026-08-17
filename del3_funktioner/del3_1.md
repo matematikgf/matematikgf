@@ -51,7 +51,7 @@ f(x) = 10*x + 40
 ----
 
 <details>
-  <summary>Lav opgaver 2.1, 2.2 og 2.3</summary>
+  <summary>Lav opgaver 2.1, 2.2, 2.3, 2.4 og 2.5</summary>
 
   - alle laver alle opgaver. Jeg vælger nogle nye, der skal præsentere opgaverne inden næste gang
 
