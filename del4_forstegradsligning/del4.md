@@ -25,3 +25,4 @@ Side 20 til og med side 25
 #### [ekstra opgaver: 322, 323, 338, osv. ](/del4_forstegradsligning/Side23cr.pdf)
 ---
 
+#### 2. Lektion : Lav afleveringer, medtag evt. ekstra-opgaver
