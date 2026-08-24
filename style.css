@@ -1,7 +1,7 @@
 /* fed style til makupfilerne som er alm html og lister overskrifter osv. */
 /* alt skal midtestilles og have en god farve og font */
 body {
-    font-family: Arial, sans-serif;
+    /*font-family: Arial, sans-serif;*/
     background-color: #aaad83;
     margin: 0;
     padding: 20px;
@@ -18,8 +18,8 @@ h1, h2, h3 {
 
 details, summary, ul, ol, table, td, th {
     line-height: 2;
-    font-family: cursive;
-    font-size: 22px;
+   /* font-family: cursive;*/    
+   font-size: 22px;
     color: #073907;
 }
 

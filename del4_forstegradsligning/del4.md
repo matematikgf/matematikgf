@@ -2,6 +2,10 @@
 
 ---
 
+## Præsentationer på tavlen ... Amir , Sabrin, Ziyu, og
+
+---
+
 ## Førstegradsliginger og isolering af variable (kapitel 3.0 - 3.2)
 
 Side 20 til og med side 25
@@ -17,9 +21,7 @@ Side 20 til og med side 25
 
 ---
 
-***Opgaver til i dag: 3.1, 3.2, 3.3, 3.4, 3.5 og 3.6***
-
+#### Opgaver til i dag: 3.1, 3.2, 3.4, 3.5 og 3.6
+#### [ekstra opgaver: 322, 323, 338, osv. ](/del4_forstegradsligning/Side23cr.pdf)
 ---
-
-Hvem vil gerne præsentere på tavlen? (helst ikke samme som sidst)
 
