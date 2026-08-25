@@ -26,3 +26,4 @@ Side 20 til og med side 25
 ---
 
 #### 2. Lektion : Lav afleveringer, medtag evt. ekstra-opgaver
+[Eksempel på god besvarelse - anonymt](/del4_forstegradsligning/AnonymAflevering2.pdf)
