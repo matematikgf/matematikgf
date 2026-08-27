@@ -19,7 +19,7 @@ h1, h2, h3 {
 details, summary, ul, ol, table, td, th {
     line-height: 2;
    /* font-family: cursive;*/    
-   font-size: 22px;
+   /*font-size: 22px;*/
     color: #073907;
 }
 
