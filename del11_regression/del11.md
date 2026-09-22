@@ -26,6 +26,10 @@ window.MathJax = {
 2. Jeg gennemgår derefter opgaverne fra screeningen og svarer på eventuelle spørgsmål
 3. Tilsidst starter vi op på "lineær-regression", og imens I laver opgaver vil jeg snakke hver enkelt af jer om screenings-reultatet.
 
+[screenings-opgaverne](/del11_regression/screening26.pdf)
+
+[løsningsforslag til screenings-opgaverne](/del11_regression/solution_screening26.pdf)
+
 ---
 
 ## Lektion 2 : Lineær regression - vha. mindste kvadraters metode
