@@ -18,11 +18,22 @@ window.MathJax = {
 
 # Matematik grundforløbet - del.12
 
----
 
-## Lektion 1 : Lineær regression & Forklaringsgrad
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
----
+Grundet manglende timer og tid, resten af timerne går til projektet,- har jeg valgt at give jer løsningerne til aflevering 2 og løsning til aflevering 3. I skal stadig lave opgaverne, men I kan nu tjekke jeres egne løsninger med mine løsninger.
+
+Spørg hvis I har spørgsmål til løsningerne
+
+[løsning til aflevering 2](/afl/solution_afl2_gf.pdf)
+
+[løsning til aflevering 3](/afl/solution_afl3_gf.pdf)
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Lineær regression - med mindste kvadraters metode
 
@@ -71,9 +82,12 @@ window.MathJax = {
   </tr>
 </table>
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Opgave om outlier-effekten - fra arbejds-selv dagen
+## Opgaver
+
+### Opgave - fra sidst outlier-effekten
 
 **I Model 1** er fejlen (residualet) fordelt ligeligt, så alle 4 punkter i datasættet har en fejl på præcis $2$.
 
@@ -90,28 +104,21 @@ $ \sum_{i=1}^4 (y_i - \hat{y}_i)^2 = 5^2 + 0^2 + 0^2 + 0^2 = 25 $
 ***Spørgsmål3: Hvad betyder det for "outliers" i jeres egne forsøg?***
 
 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Opgaver - resten af timen
+### Opgaver - lav dem på computer
 
 ***I skal anvende computer til disse opgaver***  Lav opgaverne vha. et regneark f.eks. excel eller google sheets  
 I må ikke anvende den indbyggede regression - I skal selv indskrive formlerne: 
 
-### 2.17  
+### 2.17  - præsenteres i næste time af "frivillig" med computer
 
-### 2.18  
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-## lektion 2 : Opgave gennemgang & Projekt-info
+### 2.18  - præsenteres i næste time af "frivillig" med computer
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-"Frivillig" præsenterer 2.17 med computer
+## Info om matematik projekt 1
 
-"Frivillig" præsenterer 2.18 med computer
+Matematik projektet er det første af en lang række af projekter, som I skal lave i løbet af jeres gymnasietid. Projekterne er vigtige da de kommer til at indgå i eksmanerne. 
 
-Jeg præsentrer projektet om den ["Vitruvianske mand" : matematik projekt 1](/afl/projekt1.pdf)
+["Vitruvianske mand" : matematik projekt 1](/afl/projekt1.pdf)
 
