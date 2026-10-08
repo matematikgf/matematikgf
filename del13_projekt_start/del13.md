@@ -25,9 +25,43 @@ I skal i dette forløb lave to produkter en ***rapport*** og en ***plance***
 
 ---
 
+## Grupper
+
+- Gruppe 1 : Anna, Ziyu
+- Gruppe 2 : Eskild, Alexander JH, Karl Emil
+- Gruppe 3 : Andreas, Yousef, Arda, Alexander K
+- Gruppe 4 : Kajsa, Jonas, Bertil, Denys
+- Gruppe 5 : Malthe, Amir, Alexander B
+- Gruppe 6 : Mikkel
+- Gruppe 7 : Johan, Sabrin, Maj, David B
+- Gruppe 8 : Simon, Casper
+- Gruppe 9 : Albert, David K
+- Gruppe 10 : Gustav, Ingeborg, Noah ???
+
+---
+
+## Data - indsamling
+
+Vi laver en fælles data-indsamling, hvor vi undnævner to personer til at måle mindste højden og tre andre mål på hver person i klassen.
+
+Således minimerer vi risikoen for målefejl og aflæsningsfejl og indsamler flere målinger muligt.
+
+En skal måle / En skriver data ned på computer
+
+Jeg foreslår Anna og Ziuy :-)
+
+
+---
+
+## Metode
+
+
+
+---
+
 ## Rapport
 
-I arbejder i jeres bordgrupper, når vi løser opgaverne. I grupperne skal I diskutere og blive enige om, hvilken teori der er relevant, og hvordan den kan bruges. Indsamle og bearbejde data og Hjælpe hinanden med at forstå metoden. Når data og teori er på plads, skriver hver elev sin egen rapport individuelt. På den måde får I glæde af samarbejdet i processen, men alle viser også, at de selv kan forklare og formidle resultaterne i skriftlig form.
+I grupperne skal I diskutere og blive enige om, hvilken teori der er relevant, og hvordan den kan bruges. Indsamle og bearbejde data og Hjælpe hinanden med at forstå metoden. Når data og teori er på plads, skriver hver elev sin egen rapport individuelt. På den måde får I glæde af samarbejdet i processen, men alle viser også, at de selv kan forklare og formidle resultaterne i skriftlig form.
 
 ## Plancen
 
