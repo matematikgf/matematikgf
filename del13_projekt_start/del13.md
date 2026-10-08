@@ -19,7 +19,7 @@ window.MathJax = {
 # Matematik grundforløbet - del.12
 ---
 
-# [link : PROJEKT 1 - DEN VICTORIANSKE MAND](/afl/projekt1.pdf)
+# [link : PROJEKT 1 - DEN VITRUVIANSKE MAND](/afl/projekt1.pdf)
 
 I skal i dette forløb lave to produkter en ***rapport*** og en ***plance***
 
@@ -55,7 +55,15 @@ Jeg foreslår Anna og Ziuy :-)
 
 ## Metode
 
+Vælg en af følgende :
 
+- Beregn enten regressionslinjen selv vha. formlerne - kan gøres i excel
+
+- Brug regressionsværktøj i GeoGebra
+
+- Brug regressionsværktøj p Excel
+
+- Eller vælg selv
 
 ---
 
@@ -76,6 +84,6 @@ Den skal forklare, hvad projektet går ud på, og tydeligt vise, hvordan lineær
 | 1         | Læs og forstå opgaven: snak om formål, teori bag regression (skriv ned hvad i finder ud af)  | 
 | 2         | valg af dataindsamlingsmetode og evt. begyndende dataindsamling                              |
 | 3+4       | Arbejde med data: opbygning af matematiske modeller og sammenligning af resultater           |
-| -         | Rapport skrives individuelt                                                                  |
+| -         |                                                                                              |
 | 5+6       | Udarbejdelse af fælles planche: opsætning, udprint i A4 og øvelse af præsentation            |
 | 7+8       | Fremlæggelser af plancherne for klassen                                                      |
