@@ -31,12 +31,12 @@ I skal i dette forløb lave to produkter en ***rapport*** og en ***plance***
 - Gruppe 2 : Eskild, Alexander JH, Karl Emil
 - Gruppe 3 : Andreas, Yousef, Arda, Alexander K
 - Gruppe 4 : Kajsa, Jonas, Bertil, Denys
-- Gruppe 5 : Malthe, Amir, Alexander B
+- Gruppe 5 : Malthe, Amir, Alexander B, Noah
 - Gruppe 6 : Mikkel
 - Gruppe 7 : Johan, Sabrin, Maj, David B
 - Gruppe 8 : Simon, Casper
 - Gruppe 9 : Albert, David K
-- Gruppe 10 : Gustav, Ingeborg, Noah ???
+- Gruppe 10 : Gustav, Ingeborg ???
 
 ---
 
